@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "946340308610",
+    "project_id": "educatelyplus",
+    "storage_bucket": "educatelyplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946340308610:android:0ae5ab7cb254bee9fb369b",
+        "android_client_info": {
+          "package_name": "com.example.educalty_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLKK3-N1TB7pZabxpmmYIVEwEgz79qT9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946340308610:android:0ae5ab7cb254bee9fb369b",
+        "android_client_info": {
+          "package_name": "com.programmermasrawy.educalty_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLKK3-N1TB7pZabxpmmYIVEwEgz79qT9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
